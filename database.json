@@ -9,8 +9,8 @@
   },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
-    "showTerminal": true,
-    "showDevices": true,
-    "showCreatureLab": true
+    "showTerminal": false,
+    "showDevices": false,
+    "showCreatureLab": false
   }
 }
