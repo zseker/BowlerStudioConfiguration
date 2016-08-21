@@ -14,8 +14,8 @@
     ]
   },
   "BowlerStudioConfigs": {
-    "showTerminal": false,
+    "showTerminal": true,
     "showDevices": false,
-    "showCreatureLab": false
+    "showCreatureLab": true
   }
 }
