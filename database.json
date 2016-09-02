@@ -6,16 +6,5 @@
     "jogKinslider": "slider",
     "jogKiny": "y",
     "jogKinx": "x"
-  },
-  "studio-open-git": {
-    "https://gist.github.com/e67b5f75f23c134af5d5054106e3ec40.git:AnimatronicHead.groovy": [
-      "https://gist.github.com/e67b5f75f23c134af5d5054106e3ec40.git",
-      "AnimatronicHead.groovy"
-    ]
-  },
-  "BowlerStudioConfigs": {
-    "showTerminal": true,
-    "showDevices": false,
-    "showCreatureLab": true
   }
 }
