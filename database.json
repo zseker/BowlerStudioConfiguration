@@ -6,5 +6,10 @@
     "jogKinslider": "slider",
     "jogKiny": "y",
     "jogKinx": "x"
+  },
+  "studio-open-git": {},
+  "BowlerStudioConfigs": {
+    "skinBranch": "0.20.6",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
   }
 }
