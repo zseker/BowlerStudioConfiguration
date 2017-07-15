@@ -15,7 +15,7 @@
   },
   "BowlerStudioConfigs": {
     "skinBranch": "0.20.6",
-    "skinRepo": "https://github.com/Octogonapus/BowlerStudioImageAssets.git",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
 }
