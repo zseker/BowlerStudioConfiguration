@@ -8,7 +8,6 @@
     "jogKinx": "x"
   },
   "BowlerStudioConfigs": {
-    "skinBranch": "0.20.6",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
