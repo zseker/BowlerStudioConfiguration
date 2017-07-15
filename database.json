@@ -7,12 +7,6 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/055ccdd59b812f01eed99f757db26e02.git:hidApiTest.groovy": [
-      "https://gist.github.com/055ccdd59b812f01eed99f757db26e02.git",
-      "hidApiTest.groovy"
-    ]
-  },
   "BowlerStudioConfigs": {
     "skinBranch": "0.20.6",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
