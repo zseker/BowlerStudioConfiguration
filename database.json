@@ -15,10 +15,14 @@
     "https://gist.github.com/b7e54155f0d9cc4e225dac6e7f9a16d4.git:Line3dtest.groovy": [
       "https://gist.github.com/b7e54155f0d9cc4e225dac6e7f9a16d4.git",
       "Line3dtest.groovy"
+    ],
+    "https://gist.github.com/e6ff676b7317be1963716be861f17292.git:wireframeTest.groovy": [
+      "https://gist.github.com/e6ff676b7317be1963716be861f17292.git",
+      "wireframeTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
-    "fontsize": 12,
+    "fontsize": 12.0,
     "skinBranch": "0.21.3",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
