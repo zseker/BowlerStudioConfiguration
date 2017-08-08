@@ -7,23 +7,10 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/a77d2ab3b93b270415a51fe679c8f3a2.git:CSGData.groovy": [
-      "https://gist.github.com/a77d2ab3b93b270415a51fe679c8f3a2.git",
-      "CSGData.groovy"
-    ],
-    "https://gist.github.com/b7e54155f0d9cc4e225dac6e7f9a16d4.git:Line3dtest.groovy": [
-      "https://gist.github.com/b7e54155f0d9cc4e225dac6e7f9a16d4.git",
-      "Line3dtest.groovy"
-    ],
-    "https://gist.github.com/e6ff676b7317be1963716be861f17292.git:wireframeTest.groovy": [
-      "https://gist.github.com/e6ff676b7317be1963716be861f17292.git",
-      "wireframeTest.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
-    "skinBranch": "0.21.3",
+    "skinBranch": "0.22.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
