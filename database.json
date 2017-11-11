@@ -8,14 +8,14 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/SeriesElasticActuator.git:LaunchHardware.groovy": [
-      "https://github.com/madhephaestus/SeriesElasticActuator.git",
-      "LaunchHardware.groovy"
+    "https://gist.github.com/ea3d6dac819487937ff264a90563e0f6.git:quad_frame.groovy": [
+      "https://gist.github.com/ea3d6dac819487937ff264a90563e0f6.git",
+      "quad_frame.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
-    "skinBranch": "0.22.1",
+    "skinBranch": "0.23.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
