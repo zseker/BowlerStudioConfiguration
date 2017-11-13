@@ -7,12 +7,6 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/ea3d6dac819487937ff264a90563e0f6.git:quad_frame.groovy": [
-      "https://gist.github.com/ea3d6dac819487937ff264a90563e0f6.git",
-      "quad_frame.groovy"
-    ]
-  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.23.1",
