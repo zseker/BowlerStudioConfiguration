@@ -7,15 +7,10 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/4723c39c13cf72a02be9ad230cdbaf1c.git:towel holder.groovy": [
-      "https://gist.github.com/4723c39c13cf72a02be9ad230cdbaf1c.git",
-      "towel holder.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
-    "skinBranch": "0.23.1",
+    "skinBranch": "0.24.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
