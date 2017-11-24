@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/4723c39c13cf72a02be9ad230cdbaf1c.git:towel holder.groovy": [
+      "https://gist.github.com/4723c39c13cf72a02be9ad230cdbaf1c.git",
+      "towel holder.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.23.1",
