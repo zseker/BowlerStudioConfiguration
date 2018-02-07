@@ -1,18 +1,5 @@
 {
   "studio-open-web": {},
-  "Saitek PLC Saitek P2600 Rumble Force Pad": {
-    "jogKinz": "rz",
-    "jogLink": "x",
-    "jogKinslider": "slider",
-    "jogKiny": "y",
-    "jogKinx": "x"
-  },
-  "studio-open-git": {
-    "https://github.com/madhephaestus/SeriesElasticActuator.git:FullHardwareLaunch.groovy": [
-      "https://github.com/madhephaestus/SeriesElasticActuator.git",
-      "FullHardwareLaunch.groovy"
-    ]
-  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
