@@ -1,6 +1,19 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/55c619bbb95f0951e7850b1cdab5fd81.git:javaCad.groovy": [
+      "https://gist.github.com/55c619bbb95f0951e7850b1cdab5fd81.git",
+      "javaCad.groovy"
+    ],
+    "https://gist.github.com/0334aed78661d5c5dac7e089337d5f6d.git:servoVitamin.groovy": [
+      "https://gist.github.com/0334aed78661d5c5dac7e089337d5f6d.git",
+      "servoVitamin.groovy"
+    ],
+    "https://gist.github.com/345c9aa8a59cd024c725fbfadf4359c4.git:first trial.groovy": [
+      "https://gist.github.com/345c9aa8a59cd024c725fbfadf4359c4.git",
+      "first trial.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.29.2",
     "fontsize": 12.0,
