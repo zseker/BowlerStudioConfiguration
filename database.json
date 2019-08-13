@@ -1,30 +1,22 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/55c619bbb95f0951e7850b1cdab5fd81.git:javaCad.groovy": [
-      "https://gist.github.com/55c619bbb95f0951e7850b1cdab5fd81.git",
-      "javaCad.groovy"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Motor.groovy"
-    ],
-    "https://gist.github.com/0334aed78661d5c5dac7e089337d5f6d.git:servoVitamin.groovy": [
-      "https://gist.github.com/0334aed78661d5c5dac7e089337d5f6d.git",
-      "servoVitamin.groovy"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
+    "https://gist.github.com/e014635aa969e8ae78622adaf03a8ec0.git:RBE 200x Foam.groovy": [
+      "https://gist.github.com/e014635aa969e8ae78622adaf03a8ec0.git",
+      "RBE 200x Foam.groovy"
     ],
     "https://gist.github.com/345c9aa8a59cd024c725fbfadf4359c4.git:first trial.groovy": [
       "https://gist.github.com/345c9aa8a59cd024c725fbfadf4359c4.git",
       "first trial.groovy"
+    ],
+    "https://gist.github.com/7e47fd15d7a348b359afa43217667d80.git:cableBox.groovy": [
+      "https://gist.github.com/7e47fd15d7a348b359afa43217667d80.git",
+      "cableBox.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.29.2",
-    "fontsize": 12.0,
+    "fontsize": 28,
     "skinBranch": "0.29.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
