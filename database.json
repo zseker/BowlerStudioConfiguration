@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1579631666425"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {
     "https://gist.github.com/345c9aa8a59cd024c725fbfadf4359c4.git:first trial.groovy": [
