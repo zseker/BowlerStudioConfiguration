@@ -7,6 +7,10 @@
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1579631666425"
+    ],
+    "https://gist.github.com/7e47fd15d7a348b359afa43217667d80.git": [
+      "GIST: cableBox.groovy",
+      "1579631816445"
     ]
   },
   "studio-open-web": {},
